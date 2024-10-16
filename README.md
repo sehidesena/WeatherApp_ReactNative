@@ -1,6 +1,10 @@
-# WeatherApp_ReactNative
- When users enter the application, it automatically finds its location and shows the weather. Updated weather information is sent to users as notifications every hour
+# WeatherApp_ReactNative_Expo
 
-![WhatsApp Image 2024-10-16 at 20 21 56 (1)](https://github.com/user-attachments/assets/73b35a35-329e-4065-abe9-1d982662e672)
+ When users enter the application, it automatically finds its location and shows the weather. Updated weather information is sent to users as notifications every hour.
 
-![WhatsApp Image 2024-10-16 at 20 21 56](https://github.com/user-attachments/assets/1b1760e9-84ad-4cbf-949a-86b96fcce419)
+Tools: React Native,Vector Icons, Axios, Expo Location, Expo Notifications
+
+
+![WhatsApp Image 2024-10-16 at 20 21 56 (1) (2)](https://github.com/user-attachments/assets/27f6178e-c241-4304-a531-f296936a4e1b)
+![WhatsApp Image 2024-10-16 at 20 21 56 (2)](https://github.com/user-attachments/assets/f8b77827-dd38-4bd7-a74e-fcaa5dde3698)
+
